@@ -1,7 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
-	background-color: white; /** testing **/
+	/** background-color: white; **/ /** testing, does not work correctly, dont try it again T-T **/
 }
 
 body {
